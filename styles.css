@@ -1,0 +1,16 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline  ;
+  }
+  
+  .red {
+    padding: 0.5rem;
+    background-color: red;
+  }
+  
+  .blue {
+    padding: 1rem;
+    background-color: lightblue;
+  }
